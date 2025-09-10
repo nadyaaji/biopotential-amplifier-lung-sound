@@ -6,8 +6,7 @@
 
 ## 📖 Overview
 This project is the implementation of a **biopotential amplifier** for **lung sound acquisition**.  
-It combines **analog front-end (AFE) design**, **signal acquisition using Arduino**,  
-**signal analysis in Python**, and **PCB prototyping**.  
+It combines **analog front-end (AFE) design**, **signal acquisition using Arduino**,  **signal analysis in Python**, and **PCB prototyping**.  
 
 ---
 
