@@ -31,7 +31,7 @@ Main stages:
 
 ---
 
-## 📂 Repository Structure
+'''## 📂 Repository Structure
 biopotential-amplifier-lung-sound/
 │
 ├── Arduino/ # Arduino IDE codes
@@ -66,7 +66,7 @@ biopotential-amplifier-lung-sound/
 │ ├── summary.pdf
 │
 ├── LICENSE
-└── README.md
+└── README.md'''
 
 ---
 
