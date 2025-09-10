@@ -84,10 +84,9 @@ python Python/plot_response.py Data/subject1_inspi.csv
 ```
 
 ### 3️⃣ Analyze
-
-fft_rms.ino → run FFT & RMS on Arduino.
-stats_analysis.py → compute mean & std deviation.
-inspi_expi_quant.py → quantify inspiration & expiration phases.
+- fft_rms.ino → run FFT & RMS on Arduino.
+- stats_analysis.py → compute mean & std deviation.
+- inspi_expi_quant.py → quantify inspiration & expiration phases.
 
 ### 📊 Example Results
 Lung sound acquisition and analysis:
@@ -98,25 +97,24 @@ Lung sound acquisition and analysis:
 | RMS Analysis    | ![rms](Results/rms_plot.png)     |
 
 ### 🌟 Features
-Real-time lung sound acquisition with Arduino
-Bandpass filtering (100–2000 Hz)
-FFT & RMS analysis for signal quality check
-Inspiration/expiration quantification
-LTSpice simulation + PCB design
+- Real-time lung sound acquisition with Arduino
+- Bandpass filtering (100–2000 Hz)
+- FFT & RMS analysis for signal quality check
+- Inspiration/expiration quantification
+- LTSpice simulation + PCB design
 
 ### 🛠️ Tools Used
+1. Arduino UNO (data acquisition & FFT)
+2. LTSpice XVII (circuit simulation)
+3. Eagle CAD (PCB design)
+4. Python (NumPy, Matplotlib) (signal processing)
 
-Arduino UNO (data acquisition & FFT)
-LTSpice XVII (circuit simulation)
-Eagle CAD (PCB design)
-Python (NumPy, Matplotlib) (signal processing)
-📌 Future Improvements
-Integration with digital filters (Python or embedded DSP).
-Wireless lung sound acquisition.
-Larger dataset for validation.
+### 📌 Future Improvements
+1. Integration with digital filters (Python or embedded DSP).
+2. Wireless lung sound acquisition.
+3. Larger dataset for validation.
 
 ### 📜 License
-
 This project is released under the MIT License.
 Feel free to use, modify, and distribute with attribution.
 
