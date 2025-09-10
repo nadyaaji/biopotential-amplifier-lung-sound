@@ -32,7 +32,8 @@ Main stages:
 ---
 
 ## 📂 Repository Structure
-```biopotential-amplifier-lung-sound/
+```
+biopotential-amplifier-lung-sound/
 │
 ├── Arduino/ # Arduino IDE codes
 │ ├── acquisition.ino
