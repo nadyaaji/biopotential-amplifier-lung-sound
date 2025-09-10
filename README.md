@@ -11,7 +11,7 @@ It combines **analog front-end (AFE) design**, **signal acquisition using Arduin
 ---
 
 ## 🏗️ System Architecture
-![Block Diagram](docs/block_diagram.png)
+![Block Diagram](Block Diagram System.png)
 
 Main stages:
 1. **Chestpiece + Microphone** → capture lung sound  
