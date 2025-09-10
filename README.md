@@ -11,7 +11,7 @@ It combines **analog front-end (AFE) design**, **signal acquisition using Arduin
 ---
 
 ## 🏗️ System Architecture
-![Block Diagram]([Block Diagram System.png](https://github.com/nadyaaji/biopotential-amplifier-lung-sound/blob/0727da38429028e13e63f532fe13943e6e9a88ea/Block%20Diagram%20System.png))
+![Block Diagram](https://github.com/nadyaaji/biopotential-amplifier-lung-sound/blob/0727da38429028e13e63f532fe13943e6e9a88ea/Block%20Diagram%20System.png)
 
 Main stages:
 1. **Chestpiece + Microphone** → capture lung sound  
