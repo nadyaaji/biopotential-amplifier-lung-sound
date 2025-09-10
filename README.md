@@ -81,17 +81,15 @@ biopotential-amplifier-lung-sound/
 ### 2️⃣ Process Data
 ```bash
 python Python/plot_response.py Data/subject1_inspi.csv
+```
 
-3️⃣ Analyze
+### 3️⃣ Analyze
 
 fft_rms.ino → run FFT & RMS on Arduino.
-
 stats_analysis.py → compute mean & std deviation.
-
 inspi_expi_quant.py → quantify inspiration & expiration phases.
 
-📊 Example Results
-
+### 📊 Example Results
 Lung sound acquisition and analysis:
 | Domain          | Plot Example                     |
 | --------------- | -------------------------------- |
@@ -99,39 +97,27 @@ Lung sound acquisition and analysis:
 | Frequency (FFT) | ![fft](Results/fft_example.png)  |
 | RMS Analysis    | ![rms](Results/rms_plot.png)     |
 
-🌟 Features
-
+### 🌟 Features
 Real-time lung sound acquisition with Arduino
-
 Bandpass filtering (100–2000 Hz)
-
 FFT & RMS analysis for signal quality check
-
 Inspiration/expiration quantification
-
 LTSpice simulation + PCB design
 
-🛠️ Tools Used
+### 🛠️ Tools Used
 
 Arduino UNO (data acquisition & FFT)
-
 LTSpice XVII (circuit simulation)
-
 Eagle CAD (PCB design)
-
 Python (NumPy, Matplotlib) (signal processing)
-
 📌 Future Improvements
-
 Integration with digital filters (Python or embedded DSP).
-
 Wireless lung sound acquisition.
-
 Larger dataset for validation.
 
-📜 License
+### 📜 License
 
 This project is released under the MIT License.
 Feel free to use, modify, and distribute with attribution.
 
-👩‍💻 Author: Nadya Aji Salsabilla
+### 👩‍💻 Author: Nadya Aji Salsabilla
