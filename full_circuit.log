@@ -1,0 +1,22 @@
+Circuit: * D:\CACA\UGM\Kuliah\SKRIPSI\Circuit for Lung Sound_Lengkap.asc
+
+Direct Newton iteration for .op point succeeded.
+Heightened Def Con from 2.0187 to 2.0187
+
+Date: Tue Jul 16 20:37:52 2024
+Total elapsed time: 9.483 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 363689
+traniter = 363680
+tranpoints = 107395
+accept = 70664
+rejected = 36732
+matrix size = 125
+fillins = 200
+solver = Normal
+Matrix Compiler1: 14.75 KB object code size  11.8/6.6/[2.7]
+Matrix Compiler2: 13.14 KB object code size  5.2/22.7/[2.2]
+
