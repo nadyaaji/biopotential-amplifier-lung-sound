@@ -46,6 +46,7 @@ biopotential-amplifier-lung-sound/
 │
 ├── LTSpice/ # Circuit simulations
 │ ├── full_circuit.asc
+│ ├── full_circuit.log
 │
 ├── PCB/ # Eagle PCB design files
 │ ├── schematic.sch
