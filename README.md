@@ -45,8 +45,7 @@ biopotential-amplifier-lung-sound/
 │ ├── inspi_expi_quant.py
 │
 ├── LTSpice/ # Circuit simulations
-│ ├── amplifier.asc
-│ ├── filter.asc
+│ ├── full_circuit.asc
 │
 ├── PCB/ # Eagle PCB design files
 │ ├── schematic.sch
