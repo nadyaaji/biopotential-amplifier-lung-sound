@@ -37,9 +37,9 @@ biopotential-amplifier-lung-sound/
 ├── Arduino/ # Arduino IDE codes
 │ ├── acquisition.ino
 │ ├── record.ino
-│ ├── fft_rms.ino
 │
 ├── Python/ # Signal processing scripts
+│ ├── fft_rms.py
 │ ├── plot_response.py
 │ ├── stats_analysis.py
 │ ├── inspi_expi_quant.py
